@@ -7,5 +7,7 @@ class Sample {
 	    System.out.println(num);
 	    num = rand.nextInt(20);
 	    System.out.println(num);
+	    num = rand.nextInt(30);
+	    System.out.println(num);
 	  }
 	}
